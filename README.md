@@ -23,10 +23,6 @@
 - [Repository](https://github.com/vecoweb22/mesto-react)
 - [Figma](https://www.figma.com/file/2cn9N9jSkmxD84oJik7xL7/JavaScript.-Sprint-4?node-id=0%3A1)
 
-### В дальнейшем:
-
-- Проект будет доработан и оптимизирован с использованием ReactJS.
-
 ### Технологии
 
 - HTML5
