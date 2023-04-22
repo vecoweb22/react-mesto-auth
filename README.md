@@ -20,7 +20,7 @@
 
 ### Ссылки на github repository и макет проекта в Figma:
 
-- [Repository](https://github.com/vecoweb22/mesto-react)
+- [Repository](https://github.com/vecoweb22/react-mesto-auth)
 - [Figma](https://www.figma.com/file/2cn9N9jSkmxD84oJik7xL7/JavaScript.-Sprint-4?node-id=0%3A1)
 
 ### Технологии
